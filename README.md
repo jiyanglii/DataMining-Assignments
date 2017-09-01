@@ -8,20 +8,20 @@ The assignments are done by me and one partner. Each assignment has a different 
 - Random Forest
 - A Regression Benchmark
 
-** Assignment 2**
+**Assignment 2**
 - Kernel Selection of SVM
 - Robots and SVMs
 - A Benchmark Study 
 - Gaussian Process
 - A Mini-data Mining Challenge 
 
-** Assignment 3**
+**Assignment 3**
 - Random Projections with 1-NN 
 - PCA of A Handwritten Digits 
 - Projection onto a Hyperplane
 - Locality-sensitive Hashing
 
-** Assignment 4**
+**Assignment 4**
 - Backpropagation
 - Training Deep Models
 - Convolutional Neural Networks for Filtering 
